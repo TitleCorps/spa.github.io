@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/TitleCorps/spa.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Purpose
+To host the useful code snippets for web applications angular/java/wordpress/php
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
